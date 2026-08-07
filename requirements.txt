@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+yt-dlp
+google-generativeai
+python-multipart
